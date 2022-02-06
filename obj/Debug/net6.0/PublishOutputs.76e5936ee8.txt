@@ -1,0 +1,5 @@
+C:\Users\dr_ma\OneDrive\Documents\Projects\Serialization\bin\Debug\net6.0\publish\Serialization.exe
+C:\Users\dr_ma\OneDrive\Documents\Projects\Serialization\bin\Debug\net6.0\publish\Serialization.dll
+C:\Users\dr_ma\OneDrive\Documents\Projects\Serialization\bin\Debug\net6.0\publish\Serialization.deps.json
+C:\Users\dr_ma\OneDrive\Documents\Projects\Serialization\bin\Debug\net6.0\publish\Serialization.runtimeconfig.json
+C:\Users\dr_ma\OneDrive\Documents\Projects\Serialization\bin\Debug\net6.0\publish\Serialization.pdb

@@ -1,0 +1,15 @@
+C:\Users\dr_ma\OneDrive\Documents\Projects\Serialization\bin\Debug\net6.0\Serialization.exe
+C:\Users\dr_ma\OneDrive\Documents\Projects\Serialization\bin\Debug\net6.0\Serialization.deps.json
+C:\Users\dr_ma\OneDrive\Documents\Projects\Serialization\bin\Debug\net6.0\Serialization.runtimeconfig.json
+C:\Users\dr_ma\OneDrive\Documents\Projects\Serialization\bin\Debug\net6.0\Serialization.dll
+C:\Users\dr_ma\OneDrive\Documents\Projects\Serialization\bin\Debug\net6.0\ref\Serialization.dll
+C:\Users\dr_ma\OneDrive\Documents\Projects\Serialization\bin\Debug\net6.0\Serialization.pdb
+C:\Users\dr_ma\OneDrive\Documents\Projects\Serialization\obj\Debug\net6.0\Serialization.csproj.AssemblyReference.cache
+C:\Users\dr_ma\OneDrive\Documents\Projects\Serialization\obj\Debug\net6.0\Serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dr_ma\OneDrive\Documents\Projects\Serialization\obj\Debug\net6.0\Serialization.AssemblyInfoInputs.cache
+C:\Users\dr_ma\OneDrive\Documents\Projects\Serialization\obj\Debug\net6.0\Serialization.AssemblyInfo.cs
+C:\Users\dr_ma\OneDrive\Documents\Projects\Serialization\obj\Debug\net6.0\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\dr_ma\OneDrive\Documents\Projects\Serialization\obj\Debug\net6.0\Serialization.dll
+C:\Users\dr_ma\OneDrive\Documents\Projects\Serialization\obj\Debug\net6.0\ref\Serialization.dll
+C:\Users\dr_ma\OneDrive\Documents\Projects\Serialization\obj\Debug\net6.0\Serialization.pdb
+C:\Users\dr_ma\OneDrive\Documents\Projects\Serialization\obj\Debug\net6.0\Serialization.genruntimeconfig.cache
