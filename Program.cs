@@ -35,6 +35,8 @@ class ListRand
             }
         }
         Tail = node;
+        Head.Prev = Tail;
+        Tail.Next = Head;
         Count = count;
 
         foreach (var _node in nodes)
@@ -97,6 +99,8 @@ class ListRand
             }
         }
         Tail = current;
+        Head.Prev = Tail;
+        Tail.Next = Head;
         Console.WriteLine("Deserialized!");
     }
 
